@@ -1,0 +1,10 @@
+Jika ada error pada saat kita ingin melakukan compile program
+seperti .exe program tidak dapat dijalankan.
+
+Solved by :
+1. Close VS
+2. Open Task Manager
+3. end task DelCoVtor.exe
+4. Open VS again
+5. Compile and run for executing the program again.
+(5). Run the .sln file
