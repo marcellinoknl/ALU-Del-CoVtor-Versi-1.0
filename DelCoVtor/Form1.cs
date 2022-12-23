@@ -44,7 +44,11 @@ namespace DelCoVtor
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("-Marcellino Lumban Gaol 11420039 :D\n" +
+                "-Srinesia C Sitorus 11420084\n" +
+                "-Sophia Tambunan 11320048\n" +
+                "-Marchellya Luga 11320045\n" +
+                "HI Kami Dari Kelompok DelCoVtor ^_^");
         }
     }
 }
